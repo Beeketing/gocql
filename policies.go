@@ -15,7 +15,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/hailocab/go-hostpool"
+	"github.com/Beeketing/go-hostpool"
 )
 
 // cowHostList implements a copy on write host list, its equivalent type is []*HostInfo
