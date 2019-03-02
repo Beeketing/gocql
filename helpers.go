@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/inf.v0"
+	"gopkg.in/Beeketing/inf.v0"
 )
 
 type RowData struct {

@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hailocab/go-hostpool"
+	"github.com/Beeketing/go-hostpool"
 )
 
 // Tests of the round-robin host selection policy implementation
