@@ -19,7 +19,7 @@ import (
 	"time"
 	"unicode"
 
-	inf "gopkg.in/inf.v0"
+	inf "gopkg.in/Beeketing/inf.v0"
 )
 
 func TestEmptyHosts(t *testing.T) {
